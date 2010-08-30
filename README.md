@@ -13,6 +13,8 @@ How do I install this?
 
 It's pretty simple to install. You just need to clone it from the git repository, then open the Extensions screen in Chrome, enable "Developer mode" amd then click "Load unpacked extension". This will also be available on the official Chrome Extensions site in due course, but only when I get round to paying $5 and submitting it.
 
+You can also download it from Google Chrome Extensions [here](https://chrome.google.com/extensions/detail/kgpededmmnogkbifhdgiocokncapfkci?hl=en) - isn't that easy!
+
 A note on API keys
 -------------------
 
