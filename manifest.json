@@ -2,12 +2,16 @@
 	"name": "HotUKDeals",
 	"version": "1.0",
 	"description": "Show the latest from HotUKDeals right in your browser.",
+	"icons": {
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
 	"browser_action": {
 		"default_icon": "icon.png",
 		"default_title": "HotUKDeals",
 		"default_popup": "popup.html"
 	},
 	"permissions": [
-		"http://api.hotukdeals.com/"
+		"http://api.hotukdeals.com/", "tabs"
 	]
 }
