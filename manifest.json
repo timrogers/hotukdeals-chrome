@@ -1,0 +1,13 @@
+{
+	"name": "HotUKDeals",
+	"version": "1.0",
+	"description": "Show the latest from HotUKDeals right in your browser.",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "HotUKDeals",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"http://api.hotukdeals.com/"
+	]
+}
